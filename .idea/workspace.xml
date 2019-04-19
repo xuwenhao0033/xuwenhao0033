@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f50fc5f-a136-4191-8327-fe8c3e41742f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/06技术文档/电子零售会员使用手册.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/06技术文档/迭代需求原型方案汇总.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/06技术文档/项目说明文档.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/07测试申请/测试申请单V1.1_电子零售会员_V1.0.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail/data/TestData/elementDate.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/retail/data/TestData/elementDate.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail/test_case/MemeberQueryTc.py" beforeDir="false" afterPath="$PROJECT_DIR$/retail/test_case/MemeberQueryTc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/retail/test_case/PointQueryTc.py" beforeDir="false" afterPath="$PROJECT_DIR$/retail/test_case/PointQueryTc.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,15 +22,15 @@
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_for_LoginTc_Login_TC_test_login_failed_incorrect_password.coverage" NAME="Unittests for LoginTc.Login_TC.test_login_failed_incorrect_password Coverage Results" MODIFIED="1537421274109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$doexcel.coverage" NAME="doexcel Coverage Results" MODIFIED="1538009293847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case/models" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_for_LoginTc_Login_TC_test_login.coverage" NAME="Unittests for LoginTc.Login_TC.test_login Coverage Results" MODIFIED="1537426467749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case" />
-    <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$RunTc.coverage" NAME="RunTc Coverage Results" MODIFIED="1538121633138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1537519050655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/TestProject1" />
-    <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_in_test4_py.coverage" NAME="Unittests in test4.py Coverage Results" MODIFIED="1537492859387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/TestProject1" />
+    <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$RunTc.coverage" NAME="RunTc Coverage Results" MODIFIED="1555578637966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1537519050655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TestProject1" />
+    <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_in_test4_py.coverage" NAME="Unittests in test4.py Coverage Results" MODIFIED="1537492859387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TestProject1" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$strhandle.coverage" NAME="strhandle Coverage Results" MODIFIED="1537534081397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case/models" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_for_LoginTc_Login_TC.coverage" NAME="Unittests for LoginTc.Login_TC Coverage Results" MODIFIED="1537425993256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_for_LoginTc_Login_TC_test_login_success_correct_username_password.coverage" NAME="Unittests for LoginTc.Login_TC.test_login_success_correct_username_password Coverage Results" MODIFIED="1537510496534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$testreport.coverage" NAME="testreport Coverage Results" MODIFIED="1537535471253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case/models" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_for_ActiveRuleTc_ActiveRule_TC_test_default_input.coverage" NAME="Unittests for ActiveRuleTc.ActiveRule_TC.test_default_input Coverage Results" MODIFIED="1538114349567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case" />
-    <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_for_test4_test_test_1.coverage" NAME="Unittests for test4.test.test_1 Coverage Results" MODIFIED="1537422895309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/TestProject1" />
+    <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$Unittests_for_test4_test_test_1.coverage" NAME="Unittests for test4.test.test_1 Coverage Results" MODIFIED="1537422895309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../TestProject1" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$driver.coverage" NAME="driver Coverage Results" MODIFIED="1537527017164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/test_case/models" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$conf.coverage" NAME="conf Coverage Results" MODIFIED="1537523260002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/retail/config" />
     <SUITE FILE_PATH="coverage/Petrochina_Retail_Test_Project$AutoRunTc.coverage" NAME="AutoRunTc Coverage Results" MODIFIED="1538124269223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -43,34 +45,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/company_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#60#103#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/createrule_page.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#60#103#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/pointquery_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            <state relative-caret-position="-282">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
               <folding>
                 <element signature="e#60#74#0" expanded="true" />
               </folding>
@@ -78,35 +56,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RunTc.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retail/test_case/PointQueryTc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            <state relative-caret-position="1206">
+              <caret line="68" column="35" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/base_page.py">
+        <entry file="file://$PROJECT_DIR$/retail/test_case/ModifyPwTc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2754">
-              <caret line="161" column="26" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
-              <folding>
-                <element signature="e#69#126#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-2208">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/login_page.py">
+        <entry file="file://$PROJECT_DIR$/retail/test_case/MemeberQueryTc.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#62#105#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-864">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -114,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/modifypw_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="-2412">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="e#71#85#0" expanded="true" />
@@ -124,13 +96,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retail/test_case/LoginTc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#65#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/memeberquery_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2358">
+            <state relative-caret-position="-354">
               <caret line="137" column="46" selection-start-line="137" selection-start-column="46" selection-end-line="137" selection-end-column="46" />
               <folding>
                 <element signature="e#62#119#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retail/test_case/CreateRuleTc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-250">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retail/test_case/CompanyQueryTc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-772">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/retail/test_case/ActiveRuleTc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1386">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -169,15 +180,15 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="D:/TestProject1/log.txt" />
-        <option value="D:/TestProject1/log.py" />
-        <option value="D:/TestProject1/2018-09-21.log" />
-        <option value="D:/TestProject1/test4.py" />
+        <option value="$PROJECT_DIR$/../TestProject1/log.txt" />
+        <option value="$PROJECT_DIR$/../TestProject1/log.py" />
+        <option value="$PROJECT_DIR$/../TestProject1/2018-09-21.log" />
+        <option value="$PROJECT_DIR$/../TestProject1/test4.py" />
         <option value="$PROJECT_DIR$/retail/report/Log/2018-09-21.log" />
         <option value="$PROJECT_DIR$/retail/config/config.ini" />
         <option value="$PROJECT_DIR$/retail/report/Log/log2018-09-21.log" />
@@ -206,12 +217,12 @@
         <option value="$PROJECT_DIR$/retail/test_case/CompanyQueryTc.py" />
         <option value="$PROJECT_DIR$/retail/test_case/CreateRuleTc.py" />
         <option value="$PROJECT_DIR$/retail/test_case/LoginTc.py" />
-        <option value="$PROJECT_DIR$/retail/test_case/MemeberQueryTc.py" />
         <option value="$PROJECT_DIR$/retail/test_case/ModifyPwTc.py" />
-        <option value="$PROJECT_DIR$/retail/test_case/PointQueryTc.py" />
         <option value="$PROJECT_DIR$/retail/test_case/page_obj/base_page.py" />
         <option value="$PROJECT_DIR$/retail/test_case/page_obj/memeberquery_page.py" />
         <option value="$PROJECT_DIR$/RunTc.py" />
+        <option value="$PROJECT_DIR$/retail/test_case/PointQueryTc.py" />
+        <option value="$PROJECT_DIR$/retail/test_case/MemeberQueryTc.py" />
       </list>
     </option>
   </component>
@@ -222,7 +233,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1354" />
     <option name="y" value="3" />
     <option name="width" value="1372" />
@@ -260,6 +271,95 @@
               <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="package" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="fail" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="Log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="TestReport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Petrochina_Retail_Test_Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Petrochina_Retail_Test_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="retail" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+              <item name="page_obj" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -270,7 +370,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -296,7 +396,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.AutoRunTc">
+  <component name="RunManager" selected="Python.RunTc">
     <configuration name="AutoRunTc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Petrochina_Retail_Test_Project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -402,8 +502,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.AutoRunTc" />
         <item itemvalue="Python.RunTc" />
+        <item itemvalue="Python.AutoRunTc" />
         <item itemvalue="Python tests.Unittests for ActiveRuleTc.ActiveRule_TC.test_default_input" />
         <item itemvalue="Python.doexcel" />
         <item itemvalue="Python tests.Unittests for ActiveRuleTc.ActiveRule_TC.test_rule_message" />
@@ -421,6 +521,8 @@
       <option name="presentableId" value="Default" />
       <updated>1533882162147</updated>
       <workItem from="1555576186547" duration="37000" />
+      <workItem from="1555578500741" duration="90000" />
+      <workItem from="1555578593912" duration="3985000" />
     </task>
     <servers />
   </component>
@@ -457,7 +559,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37000" />
+    <option name="totallyTimeSpent" value="4112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -469,16 +571,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1354" y="3" width="1372" height="733" extended-state="0" />
+    <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2644817" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2700454" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.32978722" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8141593" weight="0.34170854" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8141593" weight="0.1442623" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -487,35 +587,26 @@
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="right" id="SciView" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://D:/TestProject1/log.txt" />
-    <entry file="file://D:/TestProject1/test3.py" />
-    <entry file="file://D:/TestProject1/test2.py" />
-    <entry file="file://D:/TestProject1/test.py" />
-    <entry file="file://D:/TestProject1/test4.py" />
+    <entry file="file://$PROJECT_DIR$/../TestProject1/test4.py" />
     <entry file="file://$PROJECT_DIR$/geckodriver.log" />
     <entry file="file://$PROJECT_DIR$/2018-09-21.log" />
     <entry file="file://$PROJECT_DIR$/retail/report/Log/2018-09-21.log" />
     <entry file="file://$PROJECT_DIR$/retail/report/Log2018-09-21.log" />
     <entry file="file://$PROJECT_DIR$/retail/test_case/models/config.ini" />
-    <entry file="file://$PROJECT_DIR$/retail/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/retail/report/Log/log2018-09-21.log" />
     <entry file="file://$PROJECT_DIR$/retail/config/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -537,54 +628,6 @@
         <state relative-caret-position="-1020" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/retail/config/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#75#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/models/doconfIni.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#65#79#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/models/doexcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/models/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/models/log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/models/myunit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/retail/test_case/models/sendmail.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -596,13 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/models/tcInfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -623,65 +659,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/ActiveRuleTc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/CompanyQueryTc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/CreateRuleTc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/LoginTc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/MemeberQueryTc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/ModifyPwTc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/PointQueryTc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AutoRunTc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1513">
-          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
+        <state relative-caret-position="988">
+          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/company_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state>
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#60#103#0" expanded="true" />
@@ -691,7 +678,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/createrule_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="162">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#60#103#0" expanded="true" />
@@ -699,29 +686,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/pointquery_page.py">
+    <entry file="file://$PROJECT_DIR$/retail/report/TestReport/report2019-04-18 17_10_41.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/models/tcInfo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <element signature="e#60#74#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/base_page.py">
+    <entry file="file://$PROJECT_DIR$/RunTc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2754">
-          <caret line="161" column="26" selection-start-line="161" selection-start-column="26" selection-end-line="161" selection-end-column="26" />
+        <state relative-caret-position="298">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
           <folding>
-            <element signature="e#69#126#0" expanded="true" />
+            <element signature="e#148#163#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="-22">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#62#105#0" expanded="true" />
@@ -729,9 +716,148 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/retail/report/image/fail/correct_username_password_fail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/models/doexcel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/models/driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-738">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#71#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/models/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1012">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/models/myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/data/TestData/mail_receiver.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/report/Log/log2019-04-18.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/config/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#75#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/models/doconfIni.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#65#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="68" column="19" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="19" />
+          <folding>
+            <element signature="e#69#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/PointQueryTc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="68" column="35" selection-start-line="68" selection-start-column="35" selection-end-line="68" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/ModifyPwTc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2208">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/MemeberQueryTc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/LoginTc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#65#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/CreateRuleTc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-250">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/CompanyQueryTc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-772">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/ActiveRuleTc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/pointquery_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#60#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/modifypw_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="-2412">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#71#85#0" expanded="true" />
@@ -741,18 +867,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/retail/test_case/page_obj/memeberquery_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2358">
+        <state relative-caret-position="-354">
           <caret line="137" column="46" selection-start-line="137" selection-start-column="46" selection-end-line="137" selection-end-column="46" />
           <folding>
             <element signature="e#62#119#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RunTc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>

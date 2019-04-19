@@ -20,7 +20,7 @@ class MemberQuery_TC(MyunitTest):
         menu = MemberQuery(self.driver) # 实例化会员查询页面
         self.login.loginFunc()
         menu.memberQueryMenu()  # 查找会员档案查询菜单
-        elements = menu.find_elements_re(*menu.uiElements)
+        elements = menu.findElements(*menu.uiElements)
         ele_list = []
         for eles in elements:
             if eles.text !='':

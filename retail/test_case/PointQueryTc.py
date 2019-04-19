@@ -17,7 +17,7 @@ class PointQuery_TC(MyunitTest):
         menu = PointConsume(self.driver)
         self.login.loginFunc()
         menu.integrateMenu()  # 查找积分查询菜单
-        elements = menu.find_elements_re(*menu.uiElements)
+        elements = menu.findElement(*menu.uiElements)
         ele_list = []
         for eles in elements:
             if eles.text != '':
@@ -66,7 +66,7 @@ class PointQuery_TC(MyunitTest):
         menu.integrateMenu()
         self.driver.implicitly_wait(5)
         menu.changePage()
-        elements = menu.find_elements_re(*menu.uiElements)
+        elements = menu.findElement(*menu.uiElements)
         ele_list = []
         for eles in elements:
             if eles.text !='':
